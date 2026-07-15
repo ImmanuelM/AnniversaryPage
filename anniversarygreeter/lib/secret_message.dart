@@ -5,7 +5,7 @@ Widget secretMessage(bool status) {
     mainAxisAlignment: MainAxisAlignment.center,
     children: [
       Text(
-        'Happy Aniversary Qian Qian',
+        'Happy Anniversary Qian Qian',
         style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
       ),
       Divider(),
